@@ -1,0 +1,25 @@
+
+body
+{
+font-family: "times new roman";
+}
+h1 ,h2 {
+   background-color: #d32f2f;
+            color: white;
+            padding: 25px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            text-transform: uppercase;
+    }
+table, th, tr,td {
+border: 0.5px solid black;
+margin: 1px;
+padding: 10px; }
+
+th, caption{
+background-color: orange;
+border: 0.5px solid black;
+margin: 1px;
+padding: 10px;
+}
